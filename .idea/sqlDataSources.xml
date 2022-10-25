@@ -8,20 +8,4 @@
       </scope>
     </mapping>
   </component>
-  <component name="SqlDataSourceStorage">
-    <option name="dataSources">
-      <list>
-        <State>
-          <option name="id" value="a8683ddb-a049-4496-9dd5-548a302cbbca" />
-          <option name="name" value="test@localhost (DDL)" />
-          <option name="languageId" value="MySQL" />
-          <option name="urls">
-            <array>
-              <option value="file://$PROJECT_DIR$" />
-            </array>
-          </option>
-        </State>
-      </list>
-    </option>
-  </component>
 </project>
